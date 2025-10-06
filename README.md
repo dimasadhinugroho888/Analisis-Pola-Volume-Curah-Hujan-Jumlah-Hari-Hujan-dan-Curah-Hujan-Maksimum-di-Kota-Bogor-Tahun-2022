@@ -1,0 +1,1 @@
+# Analisis-Pola-Volume-Curah-Hujan-Jumlah-Hari-Hujan-dan-Curah-Hujan-Maksimum-di-Kota-Bogor-Tahun-2022
